@@ -14,4 +14,4 @@
 |rm -rf _ordnername_ |ordner löschen|alles löschen|
 |ls |ordnerinhalt anzeigen|ls -a zeight auch versteckte Dateien an|
 |cp _Dateiname_ _Dateiname_ |Datei kopieren|
-|cp _ordnername_ordname| kopieren|
+|cp _ordnername_ordnername| kopieren|
